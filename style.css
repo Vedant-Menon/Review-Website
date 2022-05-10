@@ -1,0 +1,45 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 60px;
+    padding: 10px;
+    font-size: 20px;
+    
+    font-family: sans-serif;
+    font-weight: 400;
+    color: blue;
+    
+    }
+
+    a{
+        margin-top: 20px;
+    }
+
+body{
+    margin:0px;
+background-image: url("bg.jpg");
+
+resize:"fit";
+    }
+
+.bodyimg{
+        position: relative;
+        margin-top: 60px;
+        margin-left: 400px;
+        justify-content: center;
+        color:rgb(5, 36, 71);
+        font-weight: bold;
+        font-size: 50px;
+        }    
+
+.text{
+    margin-left: 450px;
+    margin-top: 100px;
+    justify-content: center;
+        color:rgb(5, 36, 71);
+        font-weight: bold;
+        font-size: 30px;
+} 
+
+  
